@@ -1,0 +1,48 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/GeneratedAssets/
+/QCAR/
+/.utmp/
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# Vuforia package (132MB, over GitHub's 100MB limit) - download separately
+/Packages/com.ptc.vuforia.engine-*.tgz
+
+# IDE / solution files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash / build artifacts
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aa*
+
+# OS
+.DS_Store
+Thumbs.db
